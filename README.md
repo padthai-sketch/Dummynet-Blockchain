@@ -1,10 +1,8 @@
-# Proof of Authority Development Chain
+# Proof of Authority Development Chain - Dummynet
 
-For this assignment, you will take on the role of a new developer at a small bank.
+I develop a private testnet called 'Dummtnet' to explore potentials for blockchain by setting up the custom out-of-the-box blockchain using the Proof of Authority algorithm, and send a test transaction on MyCrypto application.
 
-Your mission, should you choose to accept it, will be to set up a testnet blockchain for your organization.
 
-To do this, you will create and submit four deliverables:
 
 * Set up your custom testnet blockchain.
 
@@ -115,22 +113,11 @@ Be sure to include any preliminary setup information, such as installing depende
 
 * Upload the code, including the `networkname.json` and node folders.
 
-### Remember, *never* share your mainnet private keys! This is a testnet, so coins have no value here!
 
-### Hints
+<p align="center">
+<img src="https://github.com/padthai-sketch/Dummynet-Blockchain/blob/main/Screenshots/Puppeth_Configuration.png" alt="Puppeth_Configuration" width="400"/>
+</p>
 
-* If you get stuck - try our step by step PoA Guide located [here](Resources/POA-Blockchain-guide.md).
-
-* If you aren't seeing any movement in the wallet amounts in MyCrypto after sending/receiving transactions, try the following:
-    * Terminate both nodes using `control+C` in the Node1 and Node2 terminal windows.
-    * Change networks in MyCrypto to a Testnet such as Kovan.
-    * Restart Node1 and Node2 in their terminal windows.
-    * Reconnect to your network in MyCrypto.
-    * Log into your wallet and refresh the amount.
-    
-* If that doesn't help make sure you are sending a large enough sum of ETH to see actual movement in the digits. You may have to click on the amount itself to see the full value down to the WEI.
-
-    ![before_after_click_mycrypto](Images/before_after_click_mycrypto.png)
-
----
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+<p align="center">
+<img src="https://github.com/padthai-sketch/Dummynet-Blockchain/blob/main/Screenshots/TX_Status_successful.png" alt="TX_Status_successful" width="400"/>
+</p>

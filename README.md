@@ -1,6 +1,8 @@
 # Proof of Authority Development Chain - Dummynet
 
-I developed a private testnet called 'Dummtnet' to explore potentials for blockchain by setting up the custom out-of-the-box blockchain using the Proof of Authority algorithm, and send a test transaction on MyCrypto application. Please see the following instructions on how to utilize these blocakchain tools.
+I developed a private testnet called 'Dummtnet' to explore potentials for blockchain by setting up the custom out-of-the-box blockchain using the Proof of Authority algorithm, and send a test transaction on MyCrypto application. 
+
+Please see the following instructions on how to utilize these blocakchain tools.
 
 1. Innitiate with creating two nodes accounts for your network.
 2. Using puppeth to build your new genesis block, name the network (in this case is 'Dummynet'), and choose 'Proof of Authority' as your consensus engine.

@@ -4,6 +4,8 @@ I developed a private testnet called 'Dummtnet' to explore potentials for blockc
 
 Please see the following instructions on how to utilize these blocakchain tools.
 
+**<ins>Setup node accounts and custom testnest<ins>**
+
 1. Innitiate with creating two nodes accounts for your network.
 2. Using puppeth to build your new genesis block, name the network (in this case is 'Dummynet'), and choose 'Proof of Authority' as your consensus engine.
 3. Included both Nodes addresses as your sealed account. Only included Node 1's address as your pre-funded account. 
@@ -13,6 +15,11 @@ Please see the following instructions on how to utilize these blocakchain tools.
 <p align="center">
 <img src="https://github.com/padthai-sketch/Dummynet-Blockchain/blob/main/Screenshots/Puppeth_Configuration.png" alt="Puppeth_Configuration" width="800"/>
 </p>
+
+5. 
+
+
+
 
 
 ***<p align="center">Transaction Metadata</p>***

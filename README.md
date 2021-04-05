@@ -116,7 +116,10 @@ Be sure to include any preliminary setup information, such as installing depende
 
 <p align="center">
 <img src="https://github.com/padthai-sketch/Dummynet-Blockchain/blob/main/Screenshots/Puppeth_Configuration.png" alt="Puppeth_Configuration" width="800"/>
+
+My Puppeth Configuration
 </p>
+
 
 <p align="center">
 <img src="https://github.com/padthai-sketch/Dummynet-Blockchain/blob/main/Screenshots/TX_Status_successful.png" alt="TX_Status_successful" width="800"/>

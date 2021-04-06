@@ -24,9 +24,9 @@ Please see the following instructions on how to utilize these blocakchain tools.
    *./geth --datadir node2 --unlock "SEALER_TWO_ADDRESS" --port 30304 --rpc --bootnodes "enode://SEALER_ONE_ENODE_ADDRESS@127.0.0.1:30303" --allow-insecure-unlock
 3. You should be able to see both nodes running at the same time. 
 
-**<ins>Test your network on MyCrpto<ins>**
+**<ins>Add your network to MyCrpto app<ins>**
 
-1. Login to your account on MyCrypto app to set up your custome network and connect the nodes with the exposed RPC port. 
+1. Login to your account on MyCrypto app to set up your custom network and connect the nodes with the exposed RPC port. 
 2. After that send a transaction from the node1 account to the node2 account including the chain ID, and use ETH as the currency
 3. Wait until TX status shows as 'Successful' and you're done!
 

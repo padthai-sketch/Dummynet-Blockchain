@@ -8,7 +8,7 @@ See the following instructions on how to utilize these blocakchain tools.
 
 1. Innitiate with creating two nodes accounts for your network.
 2. Using puppeth to build your new genesis block, name the network (in this case is 'Dummynet'), and choose 'Proof of Authority' as your consensus engine.
-3. Included both Nodes addresses as your sealed account. Only included Node 1's address as your pre-funded account. 
+3. Included both Nodes addresses as your sealed accounts. Only included Node 1's address as your pre-funded account. 
 4. Specify your chain/network ID then configured new genesis block to generate 'dummynet.json' as shown below.
 
 ***<p align="center">My Puppeth Configuration</p>***

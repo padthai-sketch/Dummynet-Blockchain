@@ -4,7 +4,7 @@ I developed a private testnet called 'Dummynet' to explore potentials for blockc
 
 See the following instructions on how to utilize these blocakchain tools.
 
-**<ins>> Setup your node accounts and custom testnest<ins>**
+**<ins>> Set up your node accounts and custom testnest<ins>**
 
 1. Innitiate with creating two nodes accounts for your network.
 2. Using puppeth to build your new genesis block, name the network (in this case is 'Dummynet'), and choose 'Proof of Authority' as your consensus engine.

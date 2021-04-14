@@ -1,6 +1,6 @@
 # Proof of Authority Development Chain - Dummynet
 
-I developed a private testnet called 'Dummtnet' to explore potentials for blockchain by setting up the custom out-of-the-box blockchain using the Proof of Authority algorithm, and send a test transaction on MyCrypto application. 
+I developed a private testnet called 'Dummynet' to explore potentials for blockchain by setting up the custom out-of-the-box blockchain using the Proof of Authority algorithm, and send a test transaction on MyCrypto application. 
 
 See the following instructions on how to utilize these blocakchain tools.
 

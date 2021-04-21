@@ -21,7 +21,7 @@ See the following instructions on how to utilize these blocakchain tools.
 1. With geth command, run Node 1 to unlock the account and begin mining process by running this command line<br> 
    *./geth --datadir node1 --unlock "SEALER_ONE_ADDRESS" --mine --miner.threads 1*
 2. Open the second tab for Node 2 to unlock the account, using this command line<br> 
-   *./geth --datadir node2 --unlock "SEALER_TWO_ADDRESS" --port 30304 --rpc --bootnodes "enode://SEALER_ONE_ENODE_ADDRESS@127.0.0.1:30303" --allow-insecure-unlock
+   *./geth --datadir node2 --unlock "SEALER_TWO_ADDRESS" --port 30304 --rpc --bootnodes "enode://SEALER_ONE_ENODE_ADDRESS@127.0.0.1:30303" --allow-insecure-unlock*
 3. You should be able to see both nodes running at the same time. 
 
 **<ins>> Add your network to MyCrpto app<ins>**
